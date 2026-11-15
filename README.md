@@ -1,11 +1,11 @@
-# rigel v.1
+# convertion temparature
  
- a simpel python program asiisten boot 
+ a simpel tes temperatur wint macth
 
 ## features
-- inpu thename
-- open google
-- can to speak
+- changes temperatur from freanheat to celcius
+- with gui tkinter 
+
 
 # tech stack
 - python
